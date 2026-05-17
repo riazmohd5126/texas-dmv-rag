@@ -1,197 +1,766 @@
 {
-  "pass": 37,
-  "fail": 3,
-  "warn": 4,
+  "pass": 105,
+  "fail": 0,
+  "warn": 21,
   "details": [
     {
       "q": "What is a GDN license?",
-      "status": "pass",
-      "rank": 1
-    },
-    {
-      "q": "What does GDN stand for?",
       "status": "warn",
-      "rank": 2
+      "rank": 2,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "Who needs a GDN in Texas?",
-      "status": "fail",
-      "rank": -1
+      "q": "What does GDN stand for in Texas motor vehicle law?",
+      "status": "warn",
+      "rank": 5,
+      "src": "texas_tag_penalties.txt"
     },
     {
-      "q": "How long is a GDN license valid?",
-      "status": "fail",
-      "rank": -1
+      "q": "Who is required to have a GDN in Texas?",
+      "status": "warn",
+      "rank": 5,
+      "src": "_dealers_licensing_franchise.txt"
     },
     {
-      "q": "What is the GDN license fee?",
+      "q": "How long does a GDN license last?",
+      "status": "warn",
+      "rank": 4,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What is the application fee for each GDN category?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "What are the different types of GDN licenses?",
+      "q": "What are all the types of independent GDN licenses?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "What is the surety bond requirement for a dealer?",
+      "q": "What letter do all GDN license numbers start with?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What suffix does a wholesale dealer GDN number end with?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What suffix does a travel trailer GDN license end with?",
+      "status": "warn",
+      "rank": 2,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "Can I have more than one type of GDN license?",
+      "status": "warn",
+      "rank": 3,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What is the required surety bond amount for a motor vehicle dealer?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
       "q": "Do travel trailer dealers need a surety bond?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "How long must the surety bond be valid?",
+      "q": "Does a trailer/semi-trailer GDN require a surety bond?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "Who requires a surety bond for GDN?",
+      "q": "How long must the dealer surety bond be valid?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "What are the dealership office requirements?",
+      "q": "Who needs a surety bond for a GDN license?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "What is the display area requirement for a dealer?",
+      "q": "Can a surety bond cover multiple GDN locations?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "What are the sign requirements for a dealership?",
+      "q": "What happens if there is a typo on the surety bond document?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "How many dealers can share the same business location?",
+      "q": "Where can a dealer find a bonding company for the surety bond?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What are the minimum office equipment requirements for a dealership?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "How many vehicle spaces must a dealer's display area have?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What are the minimum sign height requirements for a dealer?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "How many retail dealers can be at the same business address?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "How many wholesale dealers can share one business structure?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "Can a dealership office be located inside an apartment or house?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "Does the dealer need to own or lease the dealership property?",
       "status": "warn",
-      "rank": 3
+      "rank": 3,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "How many hours must a dealer be open per week?",
+      "q": "Can two dealer display areas be separated by a temporary barricade?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "Can a dealer be open on both Saturday and Sunday?",
-      "status": "warn",
-      "rank": 2
-    },
-    {
-      "q": "What is the Blue Law for dealers?",
+      "q": "How many hours per day must a retail dealer be open?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "What is the difference between a franchise license and a GDN?",
+      "q": "How many days per week must a wholesale dealer be open?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "Can a franchise dealer sell on both Saturday and Sunday?",
+      "q": "Can a dealer sell vehicles on both Saturday and Sunday?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "_dealers_licensing_franchise.txt"
     },
     {
-      "q": "What is the fee for a service-only franchise facility?",
+      "q": "Does the Blue Law apply to travel trailer dealers?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "Can franchised dealers lease vehicles?",
+      "q": "Does the dealer's phone need to be answered during certain hours?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
     },
     {
-      "q": "When did HB 718 take effect?",
+      "q": "What must a dealer post if temporarily away from the office?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What two licenses does a franchise dealer need?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_franchise.txt"
+    },
+    {
+      "q": "Is a franchise dealer license transferable to another person?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_franchise.txt"
+    },
+    {
+      "q": "How many showrooms can share one franchise license?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_franchise.txt"
+    },
+    {
+      "q": "What is the fee for a service-only franchise facility license?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_franchise.txt"
+    },
+    {
+      "q": "Can a franchised dealer use the word 'leasing' in their DBA?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_franchise.txt"
+    },
+    {
+      "q": "Can multiple vehicle makes be sold in the same showroom?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_franchise.txt"
+    },
+    {
+      "q": "Can franchised dealers be open on both Saturday and Sunday?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_franchise.txt"
+    },
+    {
+      "q": "When did House Bill 718 take effect?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_HB718.txt"
     },
     {
       "q": "What replaced paper buyer temporary tags?",
-      "status": "pass",
-      "rank": 1
+      "status": "warn",
+      "rank": 2,
+      "src": "_dealers_HB718.txt"
     },
     {
       "q": "How long is an out-of-state buyer plate valid?",
-      "status": "pass",
-      "rank": 1
+      "status": "warn",
+      "rank": 2,
+      "src": "_dealers_HB718.txt"
     },
     {
-      "q": "What should dealers do with incoming trade-in plates?",
+      "q": "What must dealers do with trade-in plates that are not reassigned?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "_dealers_HB718.txt"
     },
     {
-      "q": "Where must dealers store metal plates?",
+      "q": "Where must dealers securely store metal license plates?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "_dealers_HB718.txt"
     },
     {
-      "q": "When do I need a salvage dealer license?",
+      "q": "What system do dealers use to order and track plate inventory?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "_dealers_HB718.txt"
     },
     {
-      "q": "What is the salvage dealer license fee?",
-      "status": "pass",
-      "rank": 1
+      "q": "What is ePLATE and what was it formerly called?",
+      "status": "warn",
+      "rank": 2,
+      "src": "_dealers_HB718.txt"
     },
     {
-      "q": "Can a salvage dealer operate from their home?",
+      "q": "Can dealer temporary plates be used to deliver vehicles to buyers?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "_dealers_HB718.txt"
     },
     {
-      "q": "What is the penalty for fraudulently issuing temporary tags?",
+      "q": "Which paper tags are still valid after July 1, 2025?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "_dealers_HB718.txt"
     },
     {
-      "q": "What happens if a dealer issues 25 or more fraudulent tags?",
-      "status": "pass",
-      "rank": 1
+      "q": "When is a salvage dealer license required?",
+      "status": "warn",
+      "rank": 2,
+      "src": "_dealers_licensing_salvage-dealer.txt"
     },
     {
-      "q": "Can TxDMV revoke a dealer license?",
-      "status": "fail",
-      "rank": -1
+      "q": "What is the initial fee for a salvage dealer license?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_salvage-dealer.txt"
+    },
+    {
+      "q": "Can a salvage dealer operate from a residential address?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_salvage-dealer.txt"
+    },
+    {
+      "q": "What is a nonrepairable motor vehicle?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_salvage-dealer.txt"
+    },
+    {
+      "q": "Can a salvage vehicle be driven on public roads?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_salvage-dealer.txt"
+    },
+    {
+      "q": "What system must all salvage dealers register with under federal law?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_salvage-dealer.txt"
+    },
+    {
+      "q": "What GDN license is needed to sell rebuilt salvage vehicles?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_salvage-dealer.txt"
+    },
+    {
+      "q": "What is the criminal penalty for fraudulently issuing a temporary tag?",
+      "status": "pass",
+      "rank": 1,
+      "src": "texas_tag_penalties.txt"
+    },
+    {
+      "q": "What is the penalty for issuing 25 or more fraudulent tags?",
+      "status": "pass",
+      "rank": 1,
+      "src": "texas_tag_penalties.txt"
     },
     {
       "q": "What is the administrative penalty per violation per day?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "texas_tag_penalties.txt"
+    },
+    {
+      "q": "What is the penalty for using dealer plates for personal transportation?",
+      "status": "pass",
+      "rank": 1,
+      "src": "texas_tag_penalties.txt"
+    },
+    {
+      "q": "What criminal charge applies if a dealer fails to return plates after cancellation?",
+      "status": "pass",
+      "rank": 1,
+      "src": "texas_tag_penalties.txt"
+    },
+    {
+      "q": "What is the penalty for issuing tags for vehicles not in dealer inventory?",
+      "status": "pass",
+      "rank": 1,
+      "src": "texas_tag_penalties.txt"
+    },
+    {
+      "q": "Who can a dealer report tag fraud violations to?",
+      "status": "pass",
+      "rank": 1,
+      "src": "texas_tag_penalties.txt"
+    },
+    {
+      "q": "What enforcement actions can TxDMV take against a violating dealer?",
+      "status": "pass",
+      "rank": 1,
+      "src": "texas_tag_penalties.txt"
     },
     {
       "q": "What is the difference between a lessor and a lease facilitator?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "_dealers_licensing_leasing.txt"
     },
     {
-      "q": "Do franchised dealers need a lessor license?",
+      "q": "Do franchised dealers need a separate lessor license?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "_dealers_licensing_leasing.txt"
     },
     {
-      "q": "What is a converter license used for?",
+      "q": "How long must a vehicle lease exceed to require a lessor license?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "_dealers_licensing_leasing.txt"
     },
     {
-      "q": "Can a converter sell vehicles directly to consumers?",
+      "q": "Can a lessor also act as a lease facilitator?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "_dealers_licensing_leasing.txt"
     },
     {
-      "q": "Does a converter need to be located in Texas?",
+      "q": "Does a lease facilitator own the vehicle they are leasing?",
       "status": "pass",
-      "rank": 1
+      "rank": 1,
+      "src": "_dealers_licensing_leasing.txt"
+    },
+    {
+      "q": "What is the definition of a converter?",
+      "status": "warn",
+      "rank": 2,
+      "src": "_dealers_licensing_converter.txt"
+    },
+    {
+      "q": "Can a converter sell converted vehicles directly to consumers?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_converter.txt"
+    },
+    {
+      "q": "Does a converter need to be physically located in Texas?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_converter.txt"
+    },
+    {
+      "q": "What happens if a converter produces a vehicle that meets the definition of an ambulance?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_manufacturer.txt"
+    },
+    {
+      "q": "Who pays the entire purchase price when selling a converted vehicle?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_converter.txt"
+    },
+    {
+      "q": "Are after-market conversions on already-sold vehicles regulated by TxDMV?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_converter.txt"
+    },
+    {
+      "q": "What is the definition of a manufacturer under Texas law?",
+      "status": "warn",
+      "rank": 2,
+      "src": "_dealers_licensing_manufacturer.txt"
+    },
+    {
+      "q": "Can a manufacturer sell vehicles directly to consumers in Texas?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_distributor.txt"
+    },
+    {
+      "q": "What does Texas law prohibit a manufacturer from doing with a dealership?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "Must a manufacturer be located in Texas to need a TxDMV license?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_manufacturer.txt"
+    },
+    {
+      "q": "What license must a manufacturer get if their product does not fully meet the ambulance definition?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_manufacturer.txt"
+    },
+    {
+      "q": "What is a distributor in Texas motor vehicle law?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_distributor.txt"
+    },
+    {
+      "q": "Can a distributor sell new vehicles directly to the public?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_distributor.txt"
+    },
+    {
+      "q": "Can a distributor operate a dealership?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_distributor.txt"
+    },
+    {
+      "q": "Must a distributor be licensed even if located outside Texas?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_distributor.txt"
+    },
+    {
+      "q": "Who needs an in-transit license?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_in-transit.txt"
+    },
+    {
+      "q": "What plates can drive-a-way operators use?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_in-transit.txt"
+    },
+    {
+      "q": "What methods can a drive-a-way operator use to transport a vehicle?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_in-transit.txt"
+    },
+    {
+      "q": "What vehicles are covered by the Texas Lemon Law?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "Does the Texas Lemon Law cover used vehicles?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "Does the Lemon Law cover boats or farm equipment?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "How many repair attempts trigger the four-times test?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "What is the serious safety hazard test under the Lemon Law?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "How many total days out of service triggers the 30-day test?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "How long does a consumer have to file a Lemon Law complaint?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "How much is the filing fee for a Texas Lemon Law complaint?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "What remedies can a consumer receive if they win a Lemon Law case?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "How many days does a hearing examiner have to issue a decision?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "What is eLICENSING used for?",
+      "status": "warn",
+      "rank": 3,
+      "src": "_dealers_licensing_elicensing-resources.txt"
+    },
+    {
+      "q": "How can a dealer contact TxDMV about eLICENSING?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_elicensing-resources.txt"
+    },
+    {
+      "q": "What must licensees keep current to use eLICENSING?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_elicensing-resources.txt"
+    },
+    {
+      "q": "What replaced the paper-based licensing system in Texas?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_elicensing-resources.txt"
+    },
+    {
+      "q": "Can a dealer track their license application status through eLICENSING?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_elicensing-resources.txt"
+    },
+    {
+      "q": "What is a mobility motor vehicle?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What additional license must an IMMV dealer have beyond the GDN?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What insurance must an IMMV dealer maintain?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What welding certification do IMMV dealers need?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What federal agency must IMMV dealers register with?",
+      "status": "warn",
+      "rank": 2,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "Can a wholesale dealer sell vehicles to individual consumers?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "Does a wholesale dealer need a five-vehicle display area?",
+      "status": "warn",
+      "rank": 2,
+      "src": "_dealers_licensing_independent-gdn.txt"
+    },
+    {
+      "q": "What vehicles can a wholesale dealer buy and sell?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_independent-gdn.txt"
+    },
+    {
+      "q": "How many hours per week must a wholesale dealer be open?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What bond amount is a Texas auto dealer required to maintain?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "My new car keeps breaking down after multiple repairs \u2014 what law protects me?",
+      "status": "warn",
+      "rank": 2,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "I want to sell used cars in Texas \u2014 what license do I need?",
+      "status": "warn",
+      "rank": 4,
+      "src": "_dealers_licensing_independent-gdn.txt"
+    },
+    {
+      "q": "What penalty applies to a car dealer who fraudulently issues paper tags?",
+      "status": "pass",
+      "rank": 1,
+      "src": "texas_tag_penalties.txt"
+    },
+    {
+      "q": "When does a dealer have to stop using temporary paper tags?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_HB718.txt"
+    },
+    {
+      "q": "How does the Texas DMV help consumers with repeated vehicle repair problems?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_motorists_lemon-law.txt"
+    },
+    {
+      "q": "What is the annual operating cost of a basic dealer license?",
+      "status": "warn",
+      "rank": 5,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "Can I run a dealership from my home in Texas?",
+      "status": "warn",
+      "rank": 3,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What are the differences between a lessor, lease facilitator, and franchised dealer in Texas leasing?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_leasing.txt"
+    },
+    {
+      "q": "What licenses are needed to sell both new and used vehicles at a Texas dealership?",
+      "status": "warn",
+      "rank": 3,
+      "src": "_dealers_licensing_franchise.txt"
+    },
+    {
+      "q": "What makes a converted vehicle different from a manufactured vehicle?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_converter.txt"
+    },
+    {
+      "q": "How do the penalties for tag fraud compare between first offense and multiple tags?",
+      "status": "pass",
+      "rank": 1,
+      "src": "texas_tag_penalties.txt"
+    },
+    {
+      "q": "What is the difference between a salvage and a nonrepairable motor vehicle?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_licensing_salvage-dealer.txt"
+    },
+    {
+      "q": "What is the fee for each metal dealer license plate?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "What payment methods are accepted in eLICENSING?",
+      "status": "pass",
+      "rank": 1,
+      "src": "elicensing_userguide_independent_gdn.txt"
+    },
+    {
+      "q": "When can a dealer place a new plate order in the IMS?",
+      "status": "pass",
+      "rank": 1,
+      "src": "_dealers_HB718.txt"
     }
-  ]
+  ],
+  "total": 126,
+  "recall": 126,
+  "precision1": 105
 }

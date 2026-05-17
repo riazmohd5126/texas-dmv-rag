@@ -7,6 +7,10 @@ substantially adds, subtracts from, or modifies a previously assembled or manufa
 
 Neither converters nor their representatives are allowed to sell the new motor vehicles they convert directly to Texas consumers, including municipalities. Only dealers that are franchised and licensed for the underlying line-make of the converted vehicle are allowed to sell converted vehicles to Texas consumers.
 
+The converter is not required to purchase the motor vehicle it will convert from a Texas franchised dealer. However, once the conversion is complete, the vehicle can only be sold to the end-user by a franchised and licensed Texas motor vehicle dealer for the underlying chassis line-make. The franchised dealer must invoice the end-user for the entire purchase price of the vehicle, including the conversion package, obtain payment for the entire purchase price, and perform the titling work on the complete vehicle.
+
+Substantial modifications performed on vehicles that have already been the subject of a retail sale are considered "after-market conversions" and are not subject to regulation by Texas Department of Motor Vehicles.
+
 Converters are not required to be physically located in Texas. Even if the converter is located in another state, as long as new motor vehicles they convert are sold in Texas, the converter must have a converter license issued by Texas Department of Motor Vehicles.
 
 If a person makes substantial modifications to a new motor vehicle and the resulting product is an ambulance, fire-fighting vehicle, or motorhome, then the person must obtain a manufacturer license, not a converter license.

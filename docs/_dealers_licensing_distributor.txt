@@ -1,0 +1,17 @@
+URL: https://www.txdmv.gov/dealers/licensing/distributor
+Title: Distributor License | TxDMV.gov
+Scraped: 2025-11-22T02:16:44.875657
+\======================================================================
+
+Distributor: a person, other than a manufacturer, who distributes or sells new motor vehicles to a franchised dealer.
+
+Manufacturers and distributors of new vehicles sold in Texas must be licensed by TxDMV, regardless of where the manufacturer or distributor is located.
+
+Neither manufacturers nor distributors are allowed to sell new motor vehicles directly to Texas consumers, including municipalities. Only franchised dealers that are licensed for the line-make and type code of the vehicle are allowed to sell new motor vehicles to Texas consumers. If a new motor vehicle is sold through a bid process, the franchised dealer for the specific line-make and type code must be listed on the bid as the seller.
+
+Prohibitions:
+Distributors cannot: operate or control a dealer or dealership; or act in the capacity of a dealer, directly or indirectly.
+See TEXAS OCCUPATIONS CODE §2301.476 for details and exceptions.
+
+License Plate Requirements for Manufacturer and Converter Plates (Form MVD-LF-631)
+TxDMV Motor Vehicle License Application Lookup Process & Status Codes (Form MVD-LF-630)

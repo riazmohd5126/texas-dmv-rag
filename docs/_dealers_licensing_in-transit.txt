@@ -1,0 +1,11 @@
+URL: https://www.txdmv.gov/dealers/licensing/in-transit
+Title: In-Transit License | TxDMV.gov
+Scraped: 2025-11-22T02:16:34.577720
+\======================================================================
+
+An in-transit license is required for a drive-a-way operator who transports and delivers a vehicle in this state from the manufacturer or another point of origin to a location in this state using the vehicle's own power or using the full-mount method, the saddle-mount method, the tow-bar method, or a combination of those methods.
+
+Drive-a-way operators may apply for, receive, and attach metal in-transit license plates to the vehicles they transport.
+
+Licensure & Plate Requirements for Drive-a-Way Operators (Form MVD-LF629)
+TxDMV Motor Vehicle License Application Lookup Process & Status Codes (Form MVD-LF630)

@@ -26,6 +26,12 @@ HB 718 requires Texas motor vehicle dealers to use webDEALER for processing titl
 Dealer Use of Incoming Assigned Plates (Senate Bill 1902):
 Dealers bringing vehicles into inventory with assigned general issue plates (through trade-ins) can reassign those plates to another vehicle within 10 days. If not reassigned within 10 days, the plates must be destroyed.
 
+How to use ePLATE (formerly eTAG):
+ePLATE is used for assigning plates (including dealer standard and dealer temporary plates), printing buyer's receipts and internet down receipts, and completing Vehicle Transfer Notifications (VTNs). eTAG became ePLATE on July 1, 2025. ePLATE replaced eTAG as the system for managing license plate assignments.
+
+How to Order, Track and Receive Plates in the Inventory Management System (IMS):
+Dealers are responsible for managing and ordering their inventory after the initial shipment. Once a dealer has used up 50% of their quarterly plate allocation, they can place a new order in the IMS. The IMS is used to order, track, and receive general issue plates, buyer provisional plates, and out-of-state buyer plates.
+
 Paper Tags That Will No Longer Be Issued After July 1, 2025:
 - Buyer's Temporary Tags
 - Dealer's Temporary Tags
@@ -34,3 +40,9 @@ Paper Tags That Will No Longer Be Issued After July 1, 2025:
 - Dealer Vehicle Specific Tags
 - Internet Down Tags
 Note: Paper tags issued prior to July 1, 2025 remain valid until expiration.
+
+Paper Tags and Permits That Will Still Be Issued After July 1, 2025:
+- 72/144 Hour Permits: Issued to commercial vehicles.
+- Vehicle Transit Permits: Issued when a car or truck is sold in a private sale and the seller keeps the license plates. Valid for five calendar days and one trip between the point of origin and the destination.
+- Temporary Registration Insignia for Specialty Plates: Issued while awaiting delivery of permanent specialty license plates.
+- Factory Delivery Permits: Issued for the initial transportation of a new, unregistered vehicle from the manufacturing facility to a dealership. Valid for 30 days.

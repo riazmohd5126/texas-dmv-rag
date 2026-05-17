@@ -86,11 +86,20 @@ Dealers are required to lease or own the property listed as the physical address
 Office must be in a building with connecting exterior walls. The office cannot be located within an apartment, house, hotel, motel, or rooming house.
 At a minimum, the dealership business office must include a desk with at least two chairs, a working telephone and Internet access.
 
+3.2.3 Surety Bond Errors
+Misspellings and typographic errors will invalidate the bond document, but they can be corrected with a bond rider and a power of attorney. To fix the errors contact the bonding company or bonding agent to get a rider to correct the errors. Making changes on the document itself will invalidate it.
+TxDMV will not accept a rider with an "obligee" or "in favor of" listing TxDMV. You may use a variation of "Unknown Third Party" or "Person Who Claims a Judgment".
+To locate a bonding company, the dealership can visit the Texas Department of Insurance Bond Resources page at http://www.tdi.texas.gov/commercial/pcbond.html or through an Internet search.
+
 3.6 Display Area Requirement
 The dealer display area must:
 - Be located in a building or outside at the dealer's physical address.
 - Be large enough to hold at least five spaces for the types of vehicles sold.
 - Be lighted sufficiently so that customers can inspect the vehicles.
+- The display area cannot be located on a right-of-way unless the dealer has written permission.
+
+3.6.1 Sharing a Display Area
+Space must be reserved specifically for the dealer's inventory and cannot be shared with another business or dealer. If the display area is shared with another dealership, the display area must be separated by a material object or barricade that cannot be readily moved. Temporary barricades are not acceptable.
 
 3.7 Signage Requirement
 Retail dealers must clearly display a permanent sign with their business name or DBA in letters at least 6 inches in height.
@@ -99,6 +108,19 @@ Retail dealers must clearly display a permanent sign with their business name or
 Retail dealers are required to be open at least 4 consecutive hours a day and 4 days each week.
 Wholesale dealers are required to be open at least 2 consecutive hours a day and 2 days each week.
 Blue Law: A dealer cannot sell vehicles on both Saturday and Sunday. A dealer may choose only one of those days to be open.
+The Blue Law does not apply to travel trailer and trailer/semi-trailer license categories — they can sell all 7 days each week.
+
+3.8.2 Mandatory Assistance During Certain Hours
+Regardless of business hours, the dealer's telephone must be answered from 8 a.m. to 5 p.m. weekdays by a bona fide employee, answering service, or answering machine.
+
+3.8.3 Away From the Office
+The owner or a bona fide employee must be at the dealership office during the posted business hours. If not available due to special circumstances or emergencies, a separate sign must be posted indicating the date and time the dealer will resume operations.
+
+IMMV Requirements (continued):
+IMMV dealers must also:
+- Hold a welder's certification, or have an approved subcontractor that holds a certificate, that complies with the standards of the American Welding Society Sections D1.1 and D1.3, if structural modifications will be performed.
+- Are registered with the National Highway Traffic and Safety Administration (NHTSA).
+- Maintain written records until at least the third anniversary of the date that adaptive work is performed.
 
 5. GATHERING INFORMATION FOR THE GDN LICENSE APPLICATION
 You must have the following information available:
