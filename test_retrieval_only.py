@@ -29,7 +29,7 @@ from chromadb.config import Settings
 from advanced_retrieval import HybridRetriever
 
 DB_PATH    = "/home/user/texas-dmv-rag/chroma_test"
-COLLECTION = "texas_dmv_elicensing_test"
+COLLECTION = "texas_dmv_elicensing_full"
 
 client     = chromadb.PersistentClient(path=DB_PATH, settings=Settings(anonymized_telemetry=False))
 collection = client.get_collection(name=COLLECTION)

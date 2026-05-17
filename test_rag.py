@@ -45,7 +45,7 @@ sentence_transformers.SentenceTransformer = _patched_ST
 from fast_rag_universal import FastRAGSystemUniversal
 
 DOCS_DIR = "/home/user/texas-dmv-rag/test_docs"
-COLLECTION = "texas_dmv_elicensing_test"
+COLLECTION = "texas_dmv_elicensing_full"
 DB_PATH    = "/home/user/texas-dmv-rag/chroma_test"
 
 TEST_QUERIES = [
