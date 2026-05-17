@@ -1,5 +1,7 @@
 chroma_universal/
 chroma_db/
+chroma_test/
+chroma_*/
 *.sqlite3
 
 # Python cache
