@@ -1,0 +1,23 @@
+chroma_universal/
+chroma_db/
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Backup files
+*_backup_*.py
+
+# Large document files (keep locally, not in git)
+*.pdf
+*.PDF
+
+# Scraping outputs
+scraping_results*.json
+gemini_upload_manifest.txt
+
+# Summary files
+summary*.txt

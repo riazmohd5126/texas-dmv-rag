@@ -1,0 +1,16 @@
+# Requirements for RAG Web Application
+# =====================================
+
+# Core dependencies (you likely already have these)
+groq
+sentence-transformers
+chromadb
+pypdf2
+# Add your other dependencies here
+
+# NEW: Web framework dependencies
+flask==3.0.0
+flask-cors==4.0.0
+
+# Optional: for production deployment
+gunicorn==21.2.0  # Production WSGI server
