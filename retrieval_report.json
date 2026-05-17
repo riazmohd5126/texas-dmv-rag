@@ -1,0 +1,197 @@
+{
+  "pass": 37,
+  "fail": 3,
+  "warn": 4,
+  "details": [
+    {
+      "q": "What is a GDN license?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What does GDN stand for?",
+      "status": "warn",
+      "rank": 2
+    },
+    {
+      "q": "Who needs a GDN in Texas?",
+      "status": "fail",
+      "rank": -1
+    },
+    {
+      "q": "How long is a GDN license valid?",
+      "status": "fail",
+      "rank": -1
+    },
+    {
+      "q": "What is the GDN license fee?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What are the different types of GDN licenses?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What is the surety bond requirement for a dealer?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "Do travel trailer dealers need a surety bond?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "How long must the surety bond be valid?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "Who requires a surety bond for GDN?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What are the dealership office requirements?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What is the display area requirement for a dealer?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What are the sign requirements for a dealership?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "How many dealers can share the same business location?",
+      "status": "warn",
+      "rank": 3
+    },
+    {
+      "q": "How many hours must a dealer be open per week?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "Can a dealer be open on both Saturday and Sunday?",
+      "status": "warn",
+      "rank": 2
+    },
+    {
+      "q": "What is the Blue Law for dealers?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What is the difference between a franchise license and a GDN?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "Can a franchise dealer sell on both Saturday and Sunday?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What is the fee for a service-only franchise facility?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "Can franchised dealers lease vehicles?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "When did HB 718 take effect?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What replaced paper buyer temporary tags?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "How long is an out-of-state buyer plate valid?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What should dealers do with incoming trade-in plates?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "Where must dealers store metal plates?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "When do I need a salvage dealer license?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What is the salvage dealer license fee?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "Can a salvage dealer operate from their home?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What is the penalty for fraudulently issuing temporary tags?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What happens if a dealer issues 25 or more fraudulent tags?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "Can TxDMV revoke a dealer license?",
+      "status": "fail",
+      "rank": -1
+    },
+    {
+      "q": "What is the administrative penalty per violation per day?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What is the difference between a lessor and a lease facilitator?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "Do franchised dealers need a lessor license?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "What is a converter license used for?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "Can a converter sell vehicles directly to consumers?",
+      "status": "pass",
+      "rank": 1
+    },
+    {
+      "q": "Does a converter need to be located in Texas?",
+      "status": "pass",
+      "rank": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+URL: https://www.txdmv.gov/dealers/licensing/franchise
+Title: Franchise License | TxDMV.gov
+Scraped: 2025-11-22T02:16:45.537122
+\======================================================================
+
+Login to eLICENSING
+You need both a Franchise License and a General Distinguishing Number (GDN or P-number) to buy, sell, service, or exchange new motor vehicles, motorcycles, or towable RVs (including travel trailers, but not including utility trailers/semitrailers).
+Franchised dealers operate under agreements with manufacturers or distributors to sell new vehicles.
+A franchise dealer license is issued to a specific person or business entity for a specific showroom (location). This license is not transferrable to another person or another business entity.
+A separate franchise license is required for each separate showroom.
+Multiple vehicle line-makes may be sold in the same showroom, so long as each line-make is listed on the franchise license.
+You may operate multiple franchise showrooms (new vehicle sales) within the same city limits with a single GDN. However, each franchise showroom location is licensed separately. The dealer may use one GDN license number for all subsequent applications.
+Service-only Facilities:
+A service-only facility is a location occupied and operated by a franchised dealer that is a completely separate, non-contiguous site, from the franchised dealer's new vehicle sales and service or sales only location, where the franchised dealer will perform warranty and non-warranty repair services.
+TxDMV does not license a facility that performs only non-warranty repairs.
+Sales of vehicles do not occur at a service-only facility.
+The facility requires a separate, service-only franchise license. The fee is $200.
+The dealer may not obtain a service-only facility license to service a particular line-make of new motor vehicles, unless the dealer is also franchised and licensed to sell that line-make.
+Leasing Vehicles:
+In general, dealers may not use the word "lease," "leasing," or any variation in their DBA unless they have a lessor or lease facilitator license.
+The exception to this is a franchised dealer, who may lease a motor vehicle owned by the dealer and of a line-make the dealer is licensed to sell.
+Dealerships (except trailer dealers) may be open Saturday or Sunday, but not both.
+Evidence of Relocation (Form LF-621)
+Evidence of Franchise (Form LF-131AB)
+Dealership Premises Checklist (Form MVD-LF628)
+Dealer Principal & General Manager Identity Information (Form LF-610)
+TxDMV Motor Vehicle License Application Lookup Process & Status Codes (Form MVD-LF-630)

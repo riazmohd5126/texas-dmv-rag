@@ -1,0 +1,109 @@
+eLICENSING User Guide for Independent GDN Licenses
+April 2024
+
+1. INDEPENDENT DEALER GDN LICENSES
+
+A GDN is the basic dealer license that allows a person to buy, sell or exchange the type of used vehicle for which the GDN is issued. GDN licenses are divided into several categories. When applying for a dealers license, you must select one of the independent license types on the application. If you wish to have multiple GDN types, you must submit an application for each GDN type.
+
+1.1 License Term
+GDN licenses are generally issued for terms of 2 years and can be renewed for subsequent 2-year terms.
+
+1.2 License and Metal Dealer License Plate Fees
+1.2.1 License Fees
+The fee is $700 for each GDN category selected.
+
+1.2.2 Metal Dealer License Plate Fees
+The fee per plate is $90.
+
+1.2.3 Forms of Payment Accepted
+You can use a credit card or electronic check (eCheck) to pay your fees in eLICENSING.
+
+1.3 GDN License Numbers
+Independent GDN license numbers start with the letter P (P Number).
+Motor Vehicle Dealer GDN: P (e.g. P123456)
+Motorcycle Dealer GDN: P (e.g. P345678)
+Travel Trailer Dealer GDN: P ending in X (e.g. P123456X)
+Trailer Semi-Trailer Dealer GDN: P ending in X (e.g. P789123X)
+IMMV Dealer GDN: P ending in M (e.g. P123456M)
+Wholesale Dealer GDN: P ending in W (e.g. P123456W)
+Wholesale Auction Dealer GDN: P ending in A (e.g. P123456A)
+
+2. INDEPENDENT GDN LICENSE TYPES
+
+2.1 Independent Motor Vehicle Dealer GDN License
+An independent motor vehicle dealer buys, sells, or exchanges more than 5 motor vehicles titled and registered in their name in a calendar year from a permanent location; or who sells a single vehicle that is not titled and registered in their name.
+
+2.2 Independent Motorcycle Dealer GDN License
+An independent motorcycle dealer buys, sells, or exchanges more than 5 used motorcycles in a calendar year from a permanent location.
+
+2.3 Independent Travel Trailer GDN License
+An independent travel trailer dealer buys, sells, or exchanges more than 5 used non-motorized travel trailers in a calendar year from a permanent location.
+
+2.4 Independent Trailer/Semi-Trailer GDN License
+An independent trailer/semi-trailer dealer buys, sells, or exchanges more than 5 new or used trailers and semi-trailers in a calendar year from a permanent location.
+
+2.5 Independent Mobility Motor Vehicle (IMMV) GDN License
+An independent mobility motor vehicle (IMMV) dealer buys, sells, or exchanges more than five mobility motor vehicles. A mobility motor vehicle is a motor vehicle designed and equipped to transport a person with a disability. The vehicle must have a permanently lowered floor or raised ceiling, and includes a wheelchair lift, ramp, or system to secure a wheelchair while driving.
+IMMV dealers are required to have an active Converter License and garage keeper's insurance policy of at least $50,000 and a products-completed operations insurance policy of at least $1 million per occurrence.
+
+2.6 Independent Wholesale Dealer GDN License
+An independent wholesale dealer buys or sells used motor vehicles, motorcycles, and travel trailers to other dealers licensed to sell that type of vehicle. Wholesale dealers can sell only to other licensed dealers – not to the general retail public.
+
+2.7 Independent Wholesale Motor Vehicle Auction GDN License
+An independent wholesale motor vehicle auction dealer offers vehicles for sale by bid to licensed dealers at a bona fide auction with a permanent location. Wholesale motor vehicle auction GDN holders cannot sell to the public (at retail).
+
+3. INDEPENDENT GDN LICENSING REQUIREMENTS
+
+3.1 Proof of Owner Identities Requirement
+Proof of identification required for each owner, officer, or general partner:
+- State issued driver's license (from any state)
+- State issued identification card (from any state)
+- U.S. passport
+- U.S. Armed Forces Identification
+
+3.2 Motor Vehicle Surety Bond Requirement
+Most dealers are required to obtain a $50,000 motor vehicle dealer surety bond. A separate bond is required for each GDN category that a dealer applies for.
+The surety bond is required for:
+- Motor vehicle dealers
+- Motorcycle dealers
+- Mobility motor vehicle (IMMV) dealers
+- Wholesale only dealers
+- Wholesale motor vehicle auctions
+The bond is NOT required for independent travel trailer and trailer/semi-trailer GDN licenses.
+
+The surety bond must be valid for the term of the license (2 years). The bond must begin on the first day of the month and expire on the last day of the month, two years later.
+
+3.3 SOS Certificate of Business Filing Requirement
+Dealers (other than Sole Proprietors and General Partnerships) must have a Certificate of Formation or Registration filed with the Texas Secretary of State.
+
+3.4 Temporary Tags (eTAG) for Buyers Requirement
+Texas law requires dealers to issue one temporary buyer's tag to a person who buys a vehicle.
+
+3.5 Dealership Office Requirements
+Dealers are required to lease or own the property listed as the physical address of their dealership.
+- No more than four retail dealers can be located in the same business structure.
+- No more than eight wholesale dealers can be located in the same business structure.
+Office must be in a building with connecting exterior walls. The office cannot be located within an apartment, house, hotel, motel, or rooming house.
+At a minimum, the dealership business office must include a desk with at least two chairs, a working telephone and Internet access.
+
+3.6 Display Area Requirement
+The dealer display area must:
+- Be located in a building or outside at the dealer's physical address.
+- Be large enough to hold at least five spaces for the types of vehicles sold.
+- Be lighted sufficiently so that customers can inspect the vehicles.
+
+3.7 Signage Requirement
+Retail dealers must clearly display a permanent sign with their business name or DBA in letters at least 6 inches in height.
+
+3.8 Hours of Operation Requirement
+Retail dealers are required to be open at least 4 consecutive hours a day and 4 days each week.
+Wholesale dealers are required to be open at least 2 consecutive hours a day and 2 days each week.
+Blue Law: A dealer cannot sell vehicles on both Saturday and Sunday. A dealer may choose only one of those days to be open.
+
+5. GATHERING INFORMATION FOR THE GDN LICENSE APPLICATION
+You must have the following information available:
+- The filing number with the Texas Secretary of State (SOS number).
+- The employer identification number (EIN) or owner social security number.
+- The number of the $50,000 motor vehicle dealer surety bond, the name of the issuing company, and the effective and expiration dates of the bond.
+- Files containing scanned copies of: Assumed Name Certificate, Driver's licenses, Motor Vehicle Surety Bond, Certificate of Incorporation.
+- Lease or deed to the dealership property.

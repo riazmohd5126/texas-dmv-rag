@@ -1,0 +1,36 @@
+URL: https://www.txdmv.gov/dealers/HB718
+Title: House Bill 718 Implementation | TxDMV.gov
+Scraped: 2025-11-22T02:18:01.364891
+\======================================================================
+
+House Bill 718 - Replacing Temporary Tags with Metal License Plates
+
+The Texas Legislature enacted House Bill 718 (HB 718) during the 88th Legislative Session in 2023 to address concerns related to the fraudulent use of paper license tags. The new law became effective July 1, 2025.
+
+HB 718 requires all licensed dealers to issue metal license plates to buyers at the time of sale. Temporary tags will no longer be available.
+All licensed dealers must use webDEALER to process title and registration applications for vehicle sales.
+
+New Metal License Plates (effective July 1, 2025):
+- General Issue License Plate: Issued by Texas dealers to buyers at the time of sale as a replacement for paper Buyer's Temporary Tags. Must be properly secured on the front and rear of the vehicle.
+- Buyer Provisional Plate: For short-term use if dealers lack the required plate type in their inventory. Valid until 7 days after a permanent plate is assigned.
+- Dealer Temporary Plate: For dealers' business-related uses (test drives, loaner vehicles, transporting vehicles). Personal use is prohibited. May not be used to deliver vehicles to buyers.
+- Out-of-State Buyer Plate: For vehicles sold to out-of-state buyers. Valid for 60 days.
+- Temporary Registration Plate: For temporary registration, replacing one-trip and 30-day permits (issued by county tax offices).
+
+Plate Storage and Security:
+Rules require dealers to secure plates in a locked room, closet, or one or more securely locked, substantially constructed safes or steel cabinets bolted to the floor or wall.
+
+webDEALER Requirement:
+HB 718 requires Texas motor vehicle dealers to use webDEALER for processing title and registration applications electronically. Dealers without webDEALER accounts on July 1, 2025 will not be able to complete motor vehicle sales transactions.
+
+Dealer Use of Incoming Assigned Plates (Senate Bill 1902):
+Dealers bringing vehicles into inventory with assigned general issue plates (through trade-ins) can reassign those plates to another vehicle within 10 days. If not reassigned within 10 days, the plates must be destroyed.
+
+Paper Tags That Will No Longer Be Issued After July 1, 2025:
+- Buyer's Temporary Tags
+- Dealer's Temporary Tags
+- 30-Day and One-Trip Permits
+- Dealer Agent Tags
+- Dealer Vehicle Specific Tags
+- Internet Down Tags
+Note: Paper tags issued prior to July 1, 2025 remain valid until expiration.

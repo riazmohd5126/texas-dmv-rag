@@ -1,0 +1,25 @@
+URL: https://www.txdmv.gov/dealers/licensing/independent-gdn
+Title: Independent (GDN) License | TxDMV.gov
+Scraped: 2025-11-22T02:16:44.249735
+\======================================================================
+
+Login to eLICENSING
+A GDN is the basic dealer license that allows a person to buy, sell or exchange the type of used vehicle for which the GDN is issued. GDN licenses are divided into several categories. When applying for license, you must select one of the independent license types on the application. If you wish to have multiple types, you may submit multiple applications.
+Dealership Premises Checklist (Form MVD-LF628 )
+TxDMV Motor Vehicle License Application Lookup Process & Status Codes (Form MVD-LF630 )
+Independent Motor Vehicle
+\- May buy, sell, or exchange any type of used cars, trucks, motor homes, and neighborhood vehicles. May buy, sell, repair, or rebuild salvage motor vehicles and nonrepairable motor vehicles. May use dealer's temporary tags, buyer's temporary tags, and metal dealer license plates on motor vehicles only. Must provide a bond.
+Independent Motorcycle
+\- May buy, sell, or exchange any type of used motorcycles, motor scooters or ATVs. May buy, sell, repair, or rebuild salvage motor vehicles and nonrepairable motor vehicles. May use dealer's temporary tags, buyer's temporary tags, and metal dealer license plates on motorcycles, motor scooters or ATVs only. Must provide a bond.
+Travel Trailer
+\- May buy, sell, or exchange used travel trailers. May buy, sell, repair, or rebuild salvage motor vehicles and nonrepairable motor vehicles. May use dealer's temporary tags, buyer's temporary tags, and metal dealer license plates on travel trailers only. Exempt from the security requirement.
+Trailer/Semitrailer
+\- May buy, sell, or exchange new or used utility trailers and/or semitrailers. May buy, sell, repair, or rebuild salvage motor vehicles and nonrepairable motor vehicles. May use dealer's temporary tags, buyer's temporary tags, and metal dealer license plates on trailers/semitrailers only. Exempt from the security requirement.
+Wholesale Dealers
+\- May sell or exchange vehicles only with other licensed dealers. Are NOT required to have a five-vehicle display area. May NOT sell vehicles to retail purchasers. Wholesale vehicle dealers may buy, sell, or exchange used vehicles, including motor vehicles, motorcycles, and travel trailers. May buy, sell, or exchange new or used trailers and/or semitrailers. May use temporary tags and metal dealer license plates. Must provide a bond.
+Independent Mobility Motor Vehicle Dealer License
+\- Allows a dealer to offer to sell new mobility motor vehicles. A "mobility motor vehicle" is a motor vehicle designed and equipped to transport a person with a disability.
+eLICENSING User Guides
+eLICENSING User Guide for New Independent GDN Licenses
+eLICENSING User Guide Independent GDN Basic Information for Licensees
+eLICENSING User Guide for Independent GDN Amendment Licenses
